@@ -1,3 +1,5 @@
+// Design 01
+
 const parallax = document.getElementById("parallax");
 
 window.addEventListener("scroll", function ()
