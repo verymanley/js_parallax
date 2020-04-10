@@ -10,6 +10,7 @@ window.addEventListener("scroll", function ()
 })
 
 
+// Design 02
 
 const parallax = document.querySelectorAll(".parallax");
 
